@@ -7,12 +7,12 @@ My name is Teddy Ross and I am currently an undergraduate senior at Washington a
 
 I enjoy reading and more importantly, constantly learning. Here's what I'm currently reading and what I'm reading next:
 
-C++ Concurrency In Action (Williams) (current)
-C++ 17 In Detail (Filipek)
-Operating Systems Three Easy Pieces (Arpaci-Dusseau & Arpaci-Dusseau)
-Effective Modern C++ (Meyers)
-Designing Data Intensive Applications (Kleppmann)
-C++ Software Design (Iglberger)
-Computer Systems: A Programmer's Perspective (Bryant & O'Hallaron)
-Computer Networks: A Systems Approach (Peterson & Davie)
-A Tour of C++ (Stroustrup)
+* C++ Concurrency In Action (Williams) (current)
+* C++ 17 In Detail (Filipek)
+* Operating Systems Three Easy Pieces (Arpaci-Dusseau & Arpaci-Dusseau)
+* Effective Modern C++ (Meyers)
+* Designing Data Intensive Applications (Kleppmann)
+* C++ Software Design (Iglberger)
+* Computer Systems: A Programmer's Perspective (Bryant & O'Hallaron)
+* Computer Networks: A Systems Approach (Peterson & Davie)
+* A Tour of C++ (Stroustrup)
