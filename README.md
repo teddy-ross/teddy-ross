@@ -7,10 +7,10 @@ My name is Edward "Teddy" Ross and I am currently an undergraduate senior at Was
 
 I enjoy reading and more importantly, constantly learning. Here's what I'm currently reading and what I'm reading next:
 
-* Operating Systems Three Easy Pieces (Arpaci-Dusseau & Arpaci-Dusseau)
-* C++ Concurrency In Action (Williams) (current)
+* Operating Systems Three Easy Pieces (Arpaci-Dusseau & Arpaci-Dusseau)  (current)
 * C++ 17 In Detail (Filipek)
 * Inside the Machine (Stokes)
+* C++ Concurrency In Action (Williams)
 * Effective Modern C++ (Meyers)
 * Designing Data Intensive Applications (Kleppmann)
 * C++ Software Design (Iglberger)
