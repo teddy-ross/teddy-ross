@@ -1,3 +1,5 @@
+"But one of them caught our eye. The one in the center. He would neither go towards the feeding grounds at the edge of the ice nor return to the colony. Shortly afterwards we saw him heading straight for the mountains some 70 kilometers away. Doctor Ainlie explained that even if he caught him and brought him back to the colony he would immediately head right back for the mountains. But why?"
+
 ## About Me
 
 My name is Edward "Teddy" Ross and I am currently an undergraduate senior at Washington and Lee University. I am studying computer science and mathematics. My current interests include but are not limited to: quantitative finance, algebra, computer optimization and software engineering.
