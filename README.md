@@ -1,4 +1,4 @@
-"But one of them caught our eye. The one in the center. He would neither go towards the feeding grounds at the edge of the ice nor return to the colony. Shortly afterwards we saw him heading straight for the mountains some 70 kilometers away. Doctor Ainlie explained that even if he caught him and brought him back to the colony he would immediately head right back for the mountains. But why?"
+"But one of them caught our eye. The one in the center. He would neither go towards the feeding grounds at the edge of the ice nor return to the colony. Shortly afterwards we saw him heading straight for the mountains some 70 kilometers away. Doctor Ainlie explained that even if he caught him and brought him back to the colony he would immediately head right back for the mountains. But why?" - Werner Herzog
 
 ## About Me
 
