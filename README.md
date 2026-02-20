@@ -1,10 +1,5 @@
 "But one of them caught our eye. The one in the center. He would neither go towards the feeding grounds at the edge of the ice nor return to the colony. Shortly afterwards we saw him heading straight for the mountains some 70 kilometers away. Doctor Ainlie explained that even if he caught him and brought him back to the colony he would immediately head right back for the mountains. But why?" - Werner Herzog
 
-## About Me
-
-My name is Edward "Teddy" Ross. I am currently an undergraduate senior at Washington and Lee University studying computer science and mathematics.
-
-
 ## My Reading List
 
 I enjoy reading and more importantly, constantly learning. Here's what I've read, what I'm currently reading and what I'm reading next:
