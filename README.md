@@ -4,12 +4,12 @@
 
 I enjoy reading and more importantly, constantly learning. Here's what I've read, what I'm currently reading and what I'm reading next:
 
-* ~~Operating Systems Three Easy Pieces (Arpaci-Dusseau & Arpaci-Dusseau)~~ 
+* ~~Operating Systems Three Easy Pieces (Arpaci-Dusseau & Arpaci-Dusseau)~~
+* ~~Design Patterns Elements of Reusable Object-Orientated Software (Gamma et al.)~~
+* ~~C++ Concurrency In Action (Williams)~~
 * C++ 17 In Detail (Filipek)  (current)
-* C++ Concurrency In Action (Williams)
 * Effective Modern C++ (Meyers)
 * Computer Systems: A Programmer's Perspective (Bryant & O'Hallaron)
-* Design Patterns Elements of Reusable Object-Orientated Software (Gamma et al.)
 * Designing Data Intensive Applications (Kleppmann)
 * C++ Software Design (Iglberger)
 * Inside the Machine (Stokes)
