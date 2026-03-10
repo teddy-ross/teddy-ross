@@ -7,8 +7,8 @@ I enjoy reading and more importantly, constantly learning. Here's what I've read
 * ~~Operating Systems Three Easy Pieces (Arpaci-Dusseau & Arpaci-Dusseau)~~
 * ~~Design Patterns Elements of Reusable Object-Orientated Software (Gamma et al.)~~
 * ~~C++ Concurrency In Action (Williams)~~
-* C++ 17 In Detail (Filipek)  (current)
-* Effective Modern C++ (Meyers)
+* ~~C++ 17 In Detail (Filipek)~~
+* Effective Modern C++ (Meyers) (current)
 * Computer Systems: A Programmer's Perspective (Bryant & O'Hallaron)
 * Designing Data Intensive Applications (Kleppmann)
 * C++ Software Design (Iglberger)
