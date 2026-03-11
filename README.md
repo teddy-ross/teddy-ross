@@ -9,6 +9,7 @@ I enjoy reading and more importantly, constantly learning. Here's what I've read
 * ~~C++ Concurrency In Action (Williams)~~
 * ~~C++ 17 In Detail (Filipek)~~
 * Effective Modern C++ (Meyers) (current)
+* C++ Templates: The Complete Guid (Vandevoorde et al.)
 * Computer Systems: A Programmer's Perspective (Bryant & O'Hallaron)
 * Designing Data Intensive Applications (Kleppmann)
 * C++ Software Design (Iglberger)
